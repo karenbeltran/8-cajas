@@ -1,0 +1,33 @@
+.caja {
+     display: block;
+     position: relative;
+     border: 1px solid black;
+     width: 40px;
+     height: 40px;
+     margin: 5px;
+     background-color: pink
+}
+ 
+ #dos {
+     display: block;
+     position: relative;
+     border: 1px solid black;
+     margin-right: 1180px;
+     background-color: purple
+ }
+ 
+ #dos>div {
+     display: inline-block;
+ }
+ 
+ #seis {
+     display: inline-block;
+ }
+ 
+ #siete {
+    display: inline-block;
+ }
+ 
+ #ocho {
+     display: block;
+ }
